@@ -1,7 +1,7 @@
 # Premier titre
 ## Deuxième titre
 
-**Ceci est une phrase en gras.**
-*Ceci est une phrase en italique.*
-~~Ceci est une phrase eronné~~
-> Voici une citation
+**Ceci est une phrase en gras.**\r
+*Ceci est une phrase en italique.*\r
+~~Ceci est une phrase eronné~~\r
+> Voici une citation\r
