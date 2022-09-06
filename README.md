@@ -1,7 +1,3 @@
-# Premier titre
-## Deuxième titre
+# Guide d'utilisation de Visual Studio
+## La partie historique
 
-**Ceci est une phrase en gras.**
-*Ceci est une phrase en italique.*
-~~Ceci est une phrase eronné~~
-> Voici une citation
