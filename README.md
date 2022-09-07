@@ -28,3 +28,5 @@ Visual Studio ne vous conseillera jamais d'installer une extension qui vous faci
 - **GitLens** (intègre les fonctions Git)
 - **SonarLint** (souligne les erreurs de syntaxes et indique pourquoi il y a une erreur)
 - **Dash** (intègre la documentation technique directement dans l'application)
+
+De base, l'application vous installera tous les paramètres par défaut, mais certains ne vous seront jamais utiles. C'est ici que l'espace de stockage est menacé, l'application prendra de la place pour rien, c'est pour cela que je vous conseille dès la première utilisation de vérifier tous les paramètres et de supprimer ce qui vous semble inutile dans votre cas.
