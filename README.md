@@ -12,8 +12,19 @@ Grâce à ce logiciel vous pourrez développer en **C#, C++, Python, Javascript 
 Si vous voulez exercer votre savoir-faire ou même apprendre plusieurs langages différents, utiliser d'autre logiciel n'est pas vraiment pratique. Vous allez devoir installer de multiple application car la plupart sont fait pour programmer qu'un seul langage à la fois. Ceci va encombrer l'espace de stockage de votre ordinateur.  
 
 Avec le logiciel de **Microsoft**, vous allez pouvoir : 
-- modifie
+- modifier
 - déboguer (corriger les erreurs de codage) 
 - tester votre code
 - transferer sur le **Cloud**
 
+Visual Studio vous laisse la possibilité d'installer énormément d'extensions grâce à sa grande liste. A vous de prendre celle qui vous intéresse le plus et qui pourrait vous aidez dans vos travaux.
+
+## Les inconvénients de cette application
+
+Visual Studio ne vous conseillera jamais d'installer une extension qui vous facilitera la tâche, si vous ne faites pas des recherches sur le sujet de votre côté, vous passerez sûrement à côté de cette aide précieuse. C'est pour cela que je vous conseille d'installer ces extensions :
+- **Settings Sync** (synchroniser tous vos paramètres entre vos différents postes)
+- **Path Intellisense** (complète automatiquement vos chemins des fichiers)
+- **ESLint** (analyse votre code et s'assure du respect des bonnes pratiques)
+- **GitLens** (intègre les fonctions Git)
+- **SonarLint** (souligne les erreurs de syntaxes et indique pourquoi il y a une erreur)
+- **Dash** (intègre la documentation technique directement dans l'application)
